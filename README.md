@@ -1,3 +1,3 @@
 # scripting
-person = hemanth
+person=hemanth
 echo "hello ${person}"
