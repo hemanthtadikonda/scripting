@@ -1,0 +1,6 @@
+# hi hemanth
+# Revision on shell scripting
+
+# we have variables
+# we have exit cases
+# we have redirect
