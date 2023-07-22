@@ -9,5 +9,7 @@ curl -o /tmp/chocolux.zip https://www.free-css.com/assets/files/free-css-templat
 
 cd /usr/share/nginx/html
 unzip /tmp/chocolux.zip
-
+cd /usr/share/nginx/html/chocolux-html
+mv  * /usr/share/nginx/html/
+rm -rf chocolux.zip
 systemctl restart nginx
